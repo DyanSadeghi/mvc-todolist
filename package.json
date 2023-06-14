@@ -1,0 +1,22 @@
+{
+  "name": "11mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "bootstrap-v4-rtl": "^4.6.2-1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "font-awesome": "^4.7.0",
+    "mongoose": "^6.8.2",
+    "sequelize": "^6.27.0",
+    "uuid": "^9.0.0"
+  }
+}
